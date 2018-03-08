@@ -1,0 +1,229 @@
+\documentclass{article}
+
+\usepackage{tipa}
+\usepackage[extra]{tipa}
+\usepackage [T1]{fontenc}
+\usepackage [utf8]{inputenc}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.5}
+\usepackage{lmodern}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{mathtools}
+\usepackage{multirow}
+
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\rhead{\begin{picture}(0,0) \put(-106,0){\includegraphics[width=40mm]{./Imagousach_4}} \end{picture}}
+\rfoot{Sem. fonét.  fonol hisp. Programa}
+
+\pagestyle{fancy}
+
+\title {Seminario de fon\'etica y fonolog\'ia hisp\'anica\\Magíster en Lingüística-USACH\\Programa}
+\author{Domingo Rom\'an Montes de Oca}
+
+\begin{document}
+
+\maketitle
+
+\section{Objetivos}
+
+\begin{itemize}
+\item Situar los estudios fonéticos y fonológicos del español en el contexto actual de las investigaciones.
+\item Distinguir las principales teorías, líneas de trabajo y tipos de investigación en el área de la fonética y de la fonología del español.
+\item Proyectar los conocimientos teóricos y metodológicos en propuestas de investigación tanto desde una perspectiva disciplinaria como interdisciplinaria.
+\end{itemize}
+
+
+\section{Contenidos}
+
+\begin{itemize}
+\item Epistemología de la fonética y de la fonología
+\begin{itemize}
+\item Fonética y fonología
+\begin{itemize}
+\item Carácter de ciencia de ambas disciplinas
+\item Diferenciación e intersección
+\item Objetos y métodos
+\item Cómo se resuelve la pregunta ¿cuántas fonéticas/fonologías existen?
+\end{itemize}
+\item  Fonética, fonología y lingüística
+\begin{itemize}
+\item Relaciones con la ciencia del lenguaje
+\item Integración y autonomía
+\item Influencia de la teoría lingüística en las teorías de los estudios fónicos
+\end{itemize}
+\item Fonética, fonología y otras ciencias
+\begin{itemize}
+\item Interacciones y puntos de encuentro
+\item Tareas científicas o técnicas que necesitan de los estudios fónicos Participación interdisciplinaria
+\end{itemize}
+\item Metodología de investigación en fonética y validación de las afirmaciones de investigación
+\begin{itemize}
+\item relevancia del diseño en la investigación
+\item rasgos generales del análisis de datos
+\item validez de las investigaciones 
+\end{itemize}
+\end{itemize}
+\item El estudio de los fenómenos segmentales
+\begin{itemize}
+\item Vocales 
+\begin{itemize} 
+\item Aproximaciones:
+\begin{itemize} 
+\item acústica 
+\item articulatoria 
+\item auditiva 
+\item perceptiva
+\end{itemize}
+\item Problemas teóricos y metodológicos en el estudio de las vocales
+\end{itemize}
+\end{itemize}
+\begin{itemize}
+\item Consonantes
+\begin{itemize} 
+\item Clasificación de las consonantes desde el punto de vista fonético y sus implicancias para las cartas de fonemáticas de cada lengua
+\item Consonantes oclusivas, fricativas y aproximantes. Discusión de estos conceptos.
+\item Consonantes sonoras y sordas. Relación con el rasgo tensión.
+\end{itemize}
+\end{itemize}
+\item El estudio de los fenómenos suprasegmentales
+\begin{itemize} 
+\item Parámetros articulatorios, acústicos y perceptivos de la prosodia
+\item Análisis fonético de la entonación
+\item Teorías fonológicas de la entonación y técnicas de análisis fonológico
+\end{itemize}
+
+\item Proyección de los estudios fónicos
+\begin{itemize} 
+\item Aporte de estudios fónicos a temas lingüísticos (no fonológicos ni fonéticos) 
+\item Contribución a temas discursivos y pragmáticos
+\item Relación con los estudios de patologías de habla y de lenguaje
+\item Conexión con preguntas sobre procesamiento del lenguaje
+\item Participación en los estudios de multimodalidad
+\item Relación del nivel fónico con los estudios sobre evolución del lenguaje
+\end{itemize}
+\end{itemize}
+
+
+\section{Metodología}
+\begin{itemize} 
+\item Discusión colectiva sobre conceptos fundamentales
+\item Aclaraciones del profesor y del ayudante temático
+\item Reseñas individuales de investigaciones recientes
+\item Prácticas individuales de análisis fonético
+\end{itemize}
+\par
+
+Cada participante del curso se hará cargo de uno de los siguientes temas y, en su calidad de ayudante temático, coordinará con el profesor las clases y las lecturas y la metodología de cada tema. En la práctica será coprofesor para ese tema específico.
+\par
+\begin{itemize} 
+\item Metodología de la investigación en fonética
+\item Vocales
+\item Consonantes
+\item Suprasegmentos
+\item Proyecciones
+\end{itemize}
+
+
+\section{Evaluación}
+\begin{itemize} 
+\item Evaluación de la función del ayudante temático (20 \%)
+\item Tres prácticas de análisis: vocales, consonantes, entonación (50 \%)
+\item Una prueba final (30 \%)
+\end{itemize}
+
+
+\section{Sesiones dedicadas a cada tema}
+\begin{itemize}
+
+\item Epistemología de la fonética y la fonología 1-3
+\item Metodología de la investigación en fonética 4-5
+\item Vocales 6-8
+\item Consonante 9-11
+\item Prosodia 12-14
+\item Proyecciones 15-16
+\end{itemize}
+
+
+\section{Programas computacionales}
+\begin{itemize}
+\item Mínimos
+\begin{itemize}
+\item Praat
+\item Audacity
+\item R
+\item PsychoPy
+\item LibreOffice
+\end{itemize}
+\end{itemize}
+
+\begin{itemize}
+
+\item Complementarios
+\begin{itemize}
+\item Gnuplot
+\item Latex
+\item Elan
+\end{itemize}
+\end{itemize}
+
+
+\section{Lectura previa}
+
+\begin{itemize}
+\item What is Plagiarism? (2014). Plagiarism.org.  http://www.plagiarism.org/plagiarism-101/what-is-plagiarism
+\item Concepto de ciencia en Wikipedia: https://es.wikipedia.org/wiki/Ciencia
+\end{itemize}
+
+
+\section{Bibliografía}
+
+\begin{itemize}
+\item Ashby, Michael and John Maidment. 2005. Introducing Phonetic Science, Cambridge University Press.
+\item Baayen, R. H. (2008). Analyzing linguistic data. A practical introduction to statistics using R. Cambridge: Cambridge University Press.
+\item Berko Gleason, Jean y Nan Berstein Ratner. 1999. Psicolingüística, Madrid, McGraw-Hill.
+\item Cerdà M., Ramón. 1971. “La ciencia fonética y sus relaciones con la fonología y la información”, en Boletim de Filologia, tomo XXII, Cetro de Estudios filológicos, Lisboa.
+\item Clark, J. y C. Yallop. 1997. An Introduction to Phonetics and Phonology, Oxford, Blackwell.
+\item Coleman, John. 2005. Introducing Speech and Language Processing, UK, Cambridge University Press.
+\item Coseriu, Eugenio. 1973. Teoría del lenguaje y lingüística general, Madrid, Gredos, 1973. de Boer, Bart. 2001. The Origins of Vowel System, Oxford University Press.
+\item de Waal, Frans. 2007. El mono que llevamos dentro, Barcelona, Tusquets.
+\item Fernández Planas, Ana María. 2005. Así se habla. Nociones de fundamentales de fonética general y española. Apuntes de catalán, gallego y euskara, Barcelona, Horsori.
+\item Hardcastle, W. J. y J. Laver (editores). 1999. The Handbook of Phonetic Sciences, Massachussetts, Blackwell.
+\item Hualde, J. I. 2014. Los sonidos del español. Cambridge: Cambridge University Press.
+\item Gil, Juana. 2008. “Acerca de la interrelación Fonética/Fonología”, en Pamies, A. y Elizabeth Melguizo (eds.). New Trends in Experimental Phonetics, Language Design, Special Issue, 1 (2008), Granada, Universidad de Granada.
+\item Johnson, Keith. 2003. Acoustic and Auditory Phonetics, 2a. Ed., Blackwell.
+\item Ladefoged, Peter. 1971. Preliminaries to Linguistic Phonetics, The university of Chicago Press.
+\item Ladefoged, Peter. 1975. A Course in Phonetics, Harcourt Brace Jovanovich.
+\item Ladefoged, Peter. 2003. Phonetic Data Analysis: An Introduction to Fieldwork and Instrumental Techniques, Blackwell.
+\item Ladefoged, Peter y Ian Maddieson. 2007. 10a ed., The Sound of the World’s Languages, Blackwell.
+\item Martínez Celdrán, Eugenio. 1989. Fonología general y española, Teide.
+\item —. 1998. Análisis espectrográfico de los sonidos del habla, Barcelona, Ariel.
+\item —. 1997. "¿Es la fonética una ciencia auxiliar?", en M. Almeida y J. Dorta (eds.),
+Contribuciones al estudio de la lingüística hispánica (Homenaje al profesor Ramón Trujillo), Cabildo de Tenerife: Montesinos, tomo I: 87-95.
+\item — “Evaluación de los cuadros de fonemas”, Lingüística Española Actual, XVIII: 5-16. Martínez Celdrán, Eugenio y Lourdes Romera. 1995. “La invariación acústica: introducción”, EFE [Barcelona] VII: 14-24.
+\item Mithen, Steven. 2007. Los neandertales cantaban rap. Los orígenes de la música y el
+lenguaje, Barcelona, Crítica.
+\item Olarrea, Antxon. 2005. Orígenes del lenguaje y selección natural, Madrid, Equipo Sirius.
+\item Ortiz Lira, Héctor y Eugenia Saavedra. 2003. La fonética en Chile. Bibliografía analítica 1829-2000. Santiago, Phoné Libros.
+\item Pennington, Martha (ed.) 2007. Phonology in Context, Palgrave Macmillan.
+\item Prieto, Pilar (coord.). 2003. Teorías de la entonación, Barcelona, Ariel.
+\item Quilis, Antonio. 1988. Fonética Acústica de la lengua española, Madrid, Gredos.
+\item Quilis, Antonio. 1993. Tratado de Fonética y Fonología españolas, Madrid, Gredos.
+\item Reetz, Henning y Allard Jongman. 2008. Phonetics: Transcription, Production, Acoustics, And Perception, Wiley-Blackwell.
+\item Román, Domingo. 2011. Manual para el estudio fonético acústico, Santiago, Pfeifer.
+\item Sacks, Oliver. 2009. Musicofilia. Relatos de la música y el cerebro, Barcelona, Anagrama.
+\item Solé, Maria-Josep, Patrice Speeter Beddor y Manjari Ohala. 2007. Experimental Approaches to Phonology, Oxford University Press.
+\item Stevens, Kenneth. 1972. “The quantal nature of speech: Evidence from articulatory- acoustic data”. En Denes, P.B. and David Jr., E.E. (eds.), Human Communication, A Unified View, New York, McGraw-Hill: 51-66.
+\item Stevens, Kenneth. 2000. Acoustic Phonetics, Cambridge, Massachusetts, The MIT Press
+\item Tatham, Mark y Katherine Morton. 2006. Speech Production and Perception, Palgrave Macmillan.
+\item Trubetzkoy, N. 1976. 2a ed., Principios de fonología. Madrid, Cincel.
+
+\end{itemize}
+
+\end{document}
